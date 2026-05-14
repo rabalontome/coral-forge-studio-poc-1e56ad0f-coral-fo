@@ -1,0 +1,13 @@
+baseURL: "/"
+languageCode: "fr-fr"
+title: "Coral Forge Studio POC"
+enableRobotsTXT: true
+
+params:
+  theme: "creative-studio"
+  description: "Studio creatif POC genere par le worker generique."
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: false
